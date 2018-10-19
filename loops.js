@@ -20,8 +20,8 @@ function whileLoop(n) {
 function doWhileLoop(array) {
   do {
     ();
-    
+
   } while incrementVariable();
 
-return array
+  return array
 }
